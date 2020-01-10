@@ -1,4 +1,4 @@
-package de.tuebingen.sfs.additionalsubmodule
+package de.tuebingen.sfs.additionalsubmodule;
 
 public class Submodule2 {
 
